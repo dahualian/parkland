@@ -21,3 +21,9 @@
 .appIcon.rounded {
   @apply rounded-full;
 }
+
+.logoImage {
+  object-fit: contain;
+  max-width: 100%;
+  max-height: 100%;
+}
